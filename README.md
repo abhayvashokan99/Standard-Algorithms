@@ -1,2 +1,2 @@
 # Standard-Algorithms
-Contribute standard algorithms
+Contribute standard algorithms in C++
